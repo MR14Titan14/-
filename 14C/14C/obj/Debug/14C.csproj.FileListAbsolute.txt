@@ -1,0 +1,11 @@
+C:\Users\Sasha\source\repos\14C\14C\bin\Debug\14C.exe.config
+C:\Users\Sasha\source\repos\14C\14C\bin\Debug\14C.exe
+C:\Users\Sasha\source\repos\14C\14C\bin\Debug\14C.pdb
+C:\Users\Sasha\source\repos\14C\14C\obj\Debug\14C.csproj.AssemblyReference.cache
+C:\Users\Sasha\source\repos\14C\14C\obj\Debug\14C.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sasha\source\repos\14C\14C\obj\Debug\_14C.Properties.Resources.resources
+C:\Users\Sasha\source\repos\14C\14C\obj\Debug\14C.csproj.GenerateResource.cache
+C:\Users\Sasha\source\repos\14C\14C\obj\Debug\14C.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\14C\14C\obj\Debug\14C.exe
+C:\Users\Sasha\source\repos\14C\14C\obj\Debug\14C.pdb
+C:\Users\Sasha\source\repos\14C\14C\obj\Debug\Trees.Form1.resources
